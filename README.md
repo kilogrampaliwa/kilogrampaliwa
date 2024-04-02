@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @kilogrampaliwa
-- 👀 I’m interested in AI, backend technologies, logical problems and optimisation.
-- 🌱 I’m currently learning Machine Learnig and Fulstack development simultaneously.
-        I'm ODX base specialist (XML-like technology) for living, automate things in Python.
-- 💞️ I’m looking to collaborate on automation of usual engineering and financial stuff.
-        I wish to improve workflow in those branches by my projects.
-<!-- - 📫 How to reach me - --->
-<!---
-kilogrampaliwa/kilogrampaliwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Welcome to My GitHub Profile
+
+## About Me
+👋 Hi, I’m [@kilogrampaliwa](https://github.com/kilogrampaliwa).
+
+## Interests
+👀 I’m deeply passionate about AI, backend technologies, logical problem-solving, and optimization.
+
+## Current Endeavors
+🌱 I’m currently expanding my expertise in Machine Learning and Full-stack development concurrently. By profession, I specialize in ODX base (XML-like technology), utilizing Python for automation.
+
+## Collaboration
+💼 I am eager to collaborate on automating common engineering and financial tasks. My goal is to enhance workflow efficiency within these sectors through innovative projects.
+
+Feel free to explore my repositories and reach out for potential collaborations or discussions!
