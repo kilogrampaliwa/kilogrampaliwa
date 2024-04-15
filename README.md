@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile
 
 ## About Me
-👋 Hi, I’m [@kilogrampaliwa](https://github.com/kilogrampaliwa).
+👋 Hi, I’m Filip - [@kilogrampaliwa](https://github.com/kilogrampaliwa).
 
 ## Interests
 👀 I’m deeply passionate about AI, backend technologies, logical problem-solving, and optimization.
