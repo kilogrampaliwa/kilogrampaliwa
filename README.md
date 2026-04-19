@@ -1,4 +1,4 @@
-# Welcome to kilogrampaliwa's GitHub!
+# Welcome to kilogrampaliwa's GitHub
 
 ## About Me
 👋 Hi, I’m Filip - [@kilogrampaliwa](https://github.com/kilogrampaliwa).
